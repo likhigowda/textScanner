@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138306839943",
+    "project_id": "textscanner-18f07",
+    "storage_bucket": "textscanner-18f07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138306839943:android:6cd4a72209f6e3b1189f22",
+        "android_client_info": {
+          "package_name": "com.example.textscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138306839943-q51vvu3hgtbfv7r0sruqaneup5opp19n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvrD96IvC_IB81YL1GkS-ffOq1CaXV8p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138306839943-q51vvu3hgtbfv7r0sruqaneup5opp19n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

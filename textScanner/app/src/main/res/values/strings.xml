@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">textScanner</string>
+    <string name="About_app">About app</string>
+    <string name="app_details"><b>textScanner</b> is an android application to scan english texts.\n
+\nThis application is built using <b>google firebase</b>.\n
+\n
+<!--Source code: <a href="https://www.google.com">https://www.google.com/</a>-->
+    </string>
+</resources>
