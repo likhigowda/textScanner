@@ -1,0 +1,8 @@
+1. Feature graphic:
+https://www.norio.be/graphic-generator/
+
+2. App icon:
+https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html
+
+3. other images:
+https://www.flaticon.com/
